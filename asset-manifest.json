@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/atgworld/static/css/main.7c4cb449.css",
+    "main.js": "/github.io/atgworld/static/js/main.9fb5e439.js",
+    "static/js/453.ed802067.chunk.js": "/github.io/atgworld/static/js/453.ed802067.chunk.js",
+    "static/media/nature3.webp": "/github.io/atgworld/static/media/nature3.108a229ffde0bf7bfeea.webp",
+    "static/media/createAccount.png": "/github.io/atgworld/static/media/createAccount.bacf77ca133bd940370f.png",
+    "static/media/login.avif": "/github.io/atgworld/static/media/login.708af0d25efcd0ede574.avif",
+    "index.html": "/github.io/atgworld/index.html",
+    "main.7c4cb449.css.map": "/github.io/atgworld/static/css/main.7c4cb449.css.map",
+    "main.9fb5e439.js.map": "/github.io/atgworld/static/js/main.9fb5e439.js.map",
+    "453.ed802067.chunk.js.map": "/github.io/atgworld/static/js/453.ed802067.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c4cb449.css",
+    "static/js/main.9fb5e439.js"
+  ]
+}
