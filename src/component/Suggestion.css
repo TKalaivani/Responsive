@@ -1,0 +1,30 @@
+.location-input {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 5px;
+  }
+  
+  .location-icon,
+  .close-icon {
+    font-size: 1.2em;
+  }
+  
+  .location-icon {
+    margin-right: 8px; /* Equivalent to Bootstrap's me-2 */
+  }
+  
+  .close-icon {
+    margin-left: 8px; /* Equivalent to Bootstrap's ms-2 */
+  }
+  
+  .location-input input {
+    border: none;
+    outline: none;
+    flex-grow: 1;
+  }
+  
+  .location-input input::placeholder {
+    color: #888;
+  }
+  
